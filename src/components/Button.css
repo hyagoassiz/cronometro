@@ -1,0 +1,35 @@
+button {
+    height: 50px;
+    width: 150px;
+    color: #0E1526;
+    border-radius: 7px;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.Button {
+    display: inline;
+    padding: 30px;
+}
+
+button:hover{
+    cursor: pointer;
+    opacity: 60%;
+}
+
+.Blue{
+    background-color: #2DD4BF;
+}
+
+.Yellow {
+    background-color: #F4BF50;
+}
+
+.Green {
+    background-color: rgb(48, 151, 48);
+}
+
+.Red {
+    background-color: #FB7085;
+}

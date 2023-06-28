@@ -1,0 +1,15 @@
+nav {
+    height: 60px;
+    width: 100%;
+}
+
+nav h1 {
+    padding: 13px;
+    color: white;
+}
+
+hr {
+    outline: none;
+    border-style: solid;
+    border-color: #484e5e;
+}

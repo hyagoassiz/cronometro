@@ -1,0 +1,15 @@
+.Stopwatch {
+    display: table;
+    width: 100%;
+}
+
+.Timer{
+    display: table-cell;
+    vertical-align: middle;
+    height: 250px; /* Não necessário */
+    width: 50%; /* Não necessário */
+    text-align: center; /* Não necessário */
+    font-size: 100px;
+    font-weight: 400;
+    color: #B4C6EF;
+}
